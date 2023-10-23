@@ -62,8 +62,6 @@ public class Person {
 
 
 
-
-
     public void displayInfo() {
         System.out.println("Name: " + firstName + "\nLast Name: " + lastName + "\nAge: " + age);
     }
